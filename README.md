@@ -10,3 +10,8 @@ Week 2 Exercises
   -> PL/SQL
   
   -> Spring core maven
+
+Week 3 Exercises 
+
+  -> Spring Data JPA and Hibernate
+
