@@ -15,3 +15,7 @@ Week 3 Exercises
 
   -> Spring Data JPA and Hibernate
 
+Week 4 & 5 Exercises 
+
+  -> Spring REST
+
